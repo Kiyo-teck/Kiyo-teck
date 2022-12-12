@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kiyo-teck
 - 👀 I’m interested in deep-learning & datascience
 - 🌱 I’m currently learning python & R
-- 💞️ I’m looking to collaborate on 
 - 🎓 Majoring in Economics at YNU.
 
 <!---
