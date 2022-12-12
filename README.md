@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kiyo-teck
-- 👀 I’m interested in python
+- 👀 I’m interested in deep-learning & datascience
 - 🌱 I’m currently learning python & R
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 🎓 Majoring in Economics at YNU.
 
 <!---
 Kiyo-teck/Kiyo-teck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
